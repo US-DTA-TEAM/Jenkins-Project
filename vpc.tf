@@ -5,6 +5,6 @@
    instance_tenancy = "default"
    
    tags = {
-     Name = "Kazi"
+     Name = "Kazi-nanga"
    }
  }
